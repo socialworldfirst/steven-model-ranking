@@ -1,0 +1,11 @@
+.cache/
+.qa/
+__pycache__/
+.DS_Store
+refresh.py
+gate_report.py
+template.html
+README.md
+latest.json
+reports/*.json
+*.yuque.md
