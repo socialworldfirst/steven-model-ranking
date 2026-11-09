@@ -9,3 +9,5 @@ README.md
 latest.json
 reports/*.json
 *.yuque.md
+task_guide.py
+source_index.py
